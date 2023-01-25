@@ -6,7 +6,7 @@ I have almost five years of professional experience bringing beautiful, intuitiv
 
 📫 You can reach me on: joshua@sitelab.co.za
 
-**Code**
+## **Code**
 
 <!--START_SECTION:waka-->
 
