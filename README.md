@@ -11,15 +11,15 @@ I have almost five years of professional experience bringing beautiful, intuitiv
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 August 2021 - To: 09 April 2024
+From: 31 August 2021 - To: 11 April 2024
 
-Total Time: 2,269 hrs 39 mins
+Total Time: 2,284 hrs 53 mins
 
-JavaScript         1,446 hrs 42 mins>>>>>>>>>>>>>>>>---------   63.74 %
-Python             273 hrs 31 mins >>>----------------------   12.05 %
-TypeScript         220 hrs 14 mins >>-----------------------   09.70 %
-JSON               71 hrs 19 mins  >------------------------   03.14 %
-CSS                50 hrs 2 mins   >------------------------   02.20 %
+JavaScript         1,461 hrs 52 mins>>>>>>>>>>>>>>>>---------   63.98 %
+Python             273 hrs 31 mins >>>----------------------   11.97 %
+TypeScript         220 hrs 16 mins >>-----------------------   09.64 %
+JSON               71 hrs 20 mins  >------------------------   03.12 %
+CSS                50 hrs 2 mins   >------------------------   02.19 %
 ```
 
 <!--END_SECTION:waka-->
