@@ -11,7 +11,7 @@ I have almost five years of professional experience bringing beautiful, intuitiv
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 August 2021 - To: 27 September 2025
+From: 31 August 2021 - To: 28 September 2025
 
 Total Time: 4,195 hrs 27 mins
 
