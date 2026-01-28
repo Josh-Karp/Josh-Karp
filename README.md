@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I'm Joshua, a 28 y/o full-stack dev, born & raised in Pretoria, South Africa. 
+I'm Joshua, a 31 y/o full-stack dev, born & raised in Pretoria, South Africa. 
 
-I have almost five years of professional experience bringing beautiful, intuitive designs to life. I'm enthusiastic about front-end development, have a keen eye for detail and a passionate love-hate relationship with JavaScript.
+I have over 7 years of professional experience bringing beautiful, intuitive designs to life. I'm enthusiastic about front-end development, have a keen eye for detail and a passionate love-hate relationship with JavaScript.
 
-📫 You can reach me on: joshua@sitelab.co.za
+📫 You can reach me on: jkarps4@gmail.com
 
 ## **Code**
 
